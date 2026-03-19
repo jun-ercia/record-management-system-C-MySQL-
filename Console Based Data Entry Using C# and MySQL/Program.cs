@@ -10,7 +10,7 @@ namespace MConsole_Based_Data_Entry_Using_C__and_MySQL
         static void Main(string[] args)
         {
             // Database connection string
-            string connectionString = "server=localhost;user id=root;password=admin;database=student_db;port=3309";
+            string connectionString = "server=localhost;user id=root;password=admin;database=student_db;";
 
             // Create repository and application objects
             StudentRepository studentRepository = new StudentRepository(connectionString);
