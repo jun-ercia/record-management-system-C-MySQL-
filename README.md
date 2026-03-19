@@ -169,6 +169,8 @@ Course Code : BSCS
 
 **Jun Y. Ercia**
 
+Faculty, Computer Science / Computer Engineering
+
 ## License
 
 This project is for **educational purposes only**.
