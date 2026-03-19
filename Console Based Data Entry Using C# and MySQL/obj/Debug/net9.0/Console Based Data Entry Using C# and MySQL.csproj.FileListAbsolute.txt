@@ -1,0 +1,36 @@
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\Console Based Data Entry Using C# and MySQL.exe
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\Console Based Data Entry Using C# and MySQL.deps.json
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\Console Based Data Entry Using C# and MySQL.runtimeconfig.json
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\Console Based Data Entry Using C# and MySQL.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\Console Based Data Entry Using C# and MySQL.pdb
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.csproj.AssemblyReference.cache
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.AssemblyInfoInputs.cache
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.AssemblyInfo.cs
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.csproj.CoreCompileInputs.cache
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console .A93C580B.Up2Date
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\refint\Console Based Data Entry Using C# and MySQL.dll
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.pdb
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\Console Based Data Entry Using C# and MySQL.genruntimeconfig.cache
+C:\Users\jyerc\source\repos\Console Based Data Entry Using C# and MySQL\obj\Debug\net9.0\ref\Console Based Data Entry Using C# and MySQL.dll
